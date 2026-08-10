@@ -48,7 +48,7 @@
 - Falha -> è a interrupção da resolução do problema, o sistema não sabe como responder a solicitação, queda do sistema, queda do servidor.
 - *BUG -> é relacionado ao erro e a falha.*
 
-#Aula 10/08/2026
+# Aula 10/08/2026
 
 ## Padronização: 
 ### Normas e Organismos Normativos:
