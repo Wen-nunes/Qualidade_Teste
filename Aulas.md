@@ -47,3 +47,19 @@
 - Erro -> Quando a resposta for diferente da esperada. 
 - Falha -> è a interrupção da resolução do problema, o sistema não sabe como responder a solicitação, queda do sistema, queda do servidor.
 - *BUG -> é relacionado ao erro e a falha.*
+
+#Aula 10/08/2026
+
+## Padronização: 
+### Normas e Organismos Normativos:
+
+- Padrões de lei (Jure): Para fabricação ou produção de um material ou serviço ele deve seguir a padronização imposta.
+- Padrões de convenção (Fator): padrões estabelecidas por convenção de de uma maioria, padrão não obrigatório.
+
+### ISO:
+
+- Organismo Normativo
+- União para padronizações mundiais
+- subdividida em áreas hierárquicas
+- ABNT traduz a isso e aplica no Brasil
+- 
