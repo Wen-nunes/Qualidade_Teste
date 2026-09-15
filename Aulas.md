@@ -103,10 +103,11 @@
 
 ### Verificação e validação: 
 - verificação está ligada a construção do produto, garantido seguir os padrões e especificações definidas para a construção do mesmo, garantindo:
-        - REVISÃO da construção.
-        - PADRÕES, manter o padrão do desenvolvimento
-        - AUDITORIA
-        - QUALIDADE DE PROJETO E CÓDIGO
+   - REVISÃO da construção.
+   - PADRÕES, manter o padrão do desenvolvimento
+   - AUDITORIA
+   - QUALIDADE DE PROJETO E CÓDIGO
+
 - Validação, garantir a produção do que o meu cliente quer, estou construindo certo? 
         - TESTE DE SOFTWARE
 
