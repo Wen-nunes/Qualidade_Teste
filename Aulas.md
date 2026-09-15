@@ -62,4 +62,55 @@
 - União para padronizações mundiais
 - subdividida em áreas hierárquicas
 - ABNT traduz a isso e aplica no Brasil
-- 
+
+# 14/09/2026
+## Anotações para uma mapa mental
+
+- Garvin - visões diferente sobre o mesmo produto
+     - Visão transendental - julgamento previo do que é qualidade
+     - visão do usuário - visualização de metas/requisitos do produto
+     - visão do fabricante - cumprir um conjunto de requisitos de interesse do cliente
+     - visão do produto - caracteristicas/funcionalidades que o produto oferece
+     - visão de valor - é as características baseado no valor do produto
+     - Qualidade de projeto - refere-se às características que os projetistas especificam para um produto.
+     - Critérios: Desempenho, recurso, confiabilidade, conformidade, durabilidade, facilidade de manutenção, estética e percepção. 
+
+- Pressman - “uma gestão de qualidade efetiva aplicada de modo a criar um produto útil que forneça valor mensurável para aqueles que o produzem e para aqueles que o utilizam.”
+
+- McCall - baseado em 3 visões sobre o produto:
+<img width="1365" height="703" alt="image" src="https://github.com/user-attachments/assets/4a83a405-ad9d-4870-9c54-531ff84886fa" />
+
+- ISO 9126 - Baseada em 6 critérios
+    - funcionalidade
+    - confiabilidade
+    - usabilidade
+    - eficiência
+    - facilidade de manutenção
+    - portabilidade
+ 
+### Fatores de qualidade desejado: 
+- Intuição: sistema é intuitivo?
+- Eficiência
+- Robustez
+
+### SQA
+- revisão
+- trinamento
+- auditoria
+- teste
+- métricas
+- ferramentas
+
+### Verificação e validação: 
+- verificação está ligada a construção do produto, garantido seguir os padrões e especificações definidas para a construção do mesmo, garantindo:
+        - REVISÃO da construção.
+        - PADRÕES, manter o padrão do desenvolvimento
+        - AUDITORIA
+        - QUALIDADE DE PROJETO E CÓDIGO
+- Validação, garantir a produção do que o meu cliente quer, estou construindo certo? 
+        - TESTE DE SOFTWARE
+
+
+
+ 
+
